@@ -137,3 +137,14 @@
             font-size: 27px;
             text-align: center;
         }
+        
+        .modal-texto {
+            margin-bottom: 20px;
+        }
+        
+        .modal-button {
+            text-align: center;
+            padding-top: 13px;
+            margin-top: 13px;
+            padding: 13px 25px 18px;
+        }
