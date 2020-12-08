@@ -2,7 +2,6 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            background-image: url(2-02.svg);
             background-size: cover;
             background-position-y: 50%;
             padding: 0 10px;
@@ -147,4 +146,12 @@
             padding-top: 13px;
             margin-top: 13px;
             padding: 13px 25px 18px;
+        }
+        
+        .boton:hover {
+            background-color: #c2185b;
+        }
+        
+        .oculto {
+            display: none;
         }
